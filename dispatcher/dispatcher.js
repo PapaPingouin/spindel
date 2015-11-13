@@ -1,3 +1,35 @@
+
+var runners = [
+				'http://localhost:2908',
+				'http://localhost:2909',
+				'http://localhost:2910'
+				];
+
+
+var poolRunners = [];
+
+var io = require('socket.io-client');
+
+for( var e in runners )
+{
+	var url = runners[ e ];
+	var socket = io( url );
+
+	socket.on('connect', function(){
+	  console.log( 'connect' );
+	  socket.emit('hi',{'toto':123,'bla':'bla'});
+	  });
+	socket.on('event', function(data){
+	  console.log( 'event' );
+	  });
+	socket.on('disconnect', function(){
+	  console.log( 'disconnect' );
+	  });
+
+}
+
+/*
+
 var http = require('http');
 var fs = require('fs');
 
@@ -79,4 +111,4 @@ server.listen(2910);
 console.log( '[dispatcher] OK' );
 
 
-
+*/
