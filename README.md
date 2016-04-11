@@ -8,7 +8,9 @@ nodejs - ouverture port **2908**, attente connexion socketio
 première connection renvoi l'etat de la machine (hardware info) et l'etat des process si existants
 une fois connecté, heartbeat toutes les minutes
 attend de recevoir les ordres et lance les taches.
+
 Execute des scripts (php,js,shell,pyton...).
+
 1 runner gère N workers (Crawler/Parser/Analyser ...)
 
 
@@ -28,7 +30,7 @@ monitore le dispatcher (et donc les runners et les processus)
 
 stocker
 =======
-webservice de stockage de données (mariadb/mongo/elastic)
+webservice de stockage de données (mariadb/mongo/elastic), et maintient la coéhrence.
 
 
 finder
