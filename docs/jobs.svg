@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="44.335cm" height="22.050cm" viewBox="12.850 5.500 57.185 27.550"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="47.350" y="5.500" width="3.610" height="0.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="47.350" y="5.500" width="3.610" height="0.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="49.155" y="6.200"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+DATA</text>
+<rect x="47.350" y="6.400" width="3.610" height="2.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="47.350" y="6.400" width="3.610" height="2.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="47.500,6.900 47.600,7.050 47.700,6.900 47.600,6.750 "/>
+<text x="47.800" y="7.200"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+id</text>
+<text x="49.455" y="7.200"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+int</text>
+<line x1="47.800" y1="7.280" x2="50.610" y2="7.280" stroke="#000000" stroke-width="0.050" />
+<ellipse cx="47.600" cy="7.700" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="47.800" y="8.000"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+nom</text>
+<ellipse cx="47.600" cy="8.500" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="47.800" y="8.800"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+url</text>
+<rect x="13.850" y="8.950" width="20.165" height="0.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.850" y="8.950" width="20.165" height="0.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="23.933" y="9.650"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+job</text>
+<rect x="13.850" y="9.850" width="20.165" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.850" y="9.850" width="20.165" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="14.000,10.350 14.100,10.500 14.200,10.350 14.100,10.200 "/>
+<text x="14.300" y="10.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+id</text>
+<text x="18.650" y="10.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+int</text>
+<line x1="14.300" y1="10.730" x2="19.805" y2="10.730" stroke="#000000" stroke-width="0.050" />
+<ellipse cx="14.100" cy="11.150" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="14.300" y="11.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+createDate</text>
+<text x="18.650" y="11.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+datetime</text>
+<ellipse cx="14.100" cy="11.950" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="14.300" y="12.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+type</text>
+<ellipse cx="14.100" cy="12.750" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="14.300" y="13.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+action</text>
+<ellipse cx="14.100" cy="13.550" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="14.300" y="13.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+link_id</text>
+<text x="18.650" y="13.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+int</text>
+<ellipse cx="14.100" cy="14.350" rx="0.100" ry="0.100" fill="none" stroke="#000000"  stroke-width="0.010" /><text x="14.300" y="14.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+status</text>
+<text x="18.650" y="14.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+enum(&apos;pool&apos;,&apos;working&apos;,&apos;finish&apos;,&apos;error&apos;)</text>
+<rect x="13.900" y="20.850" width="17.470" height="0.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.900" y="20.850" width="17.470" height="0.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="22.635" y="21.550"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+jobExecution</text>
+<rect x="13.900" y="21.750" width="17.470" height="5.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="13.900" y="21.750" width="17.470" height="5.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="14.050,22.250 14.150,22.400 14.250,22.250 14.150,22.100 "/>
+<text x="14.350" y="22.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+id</text>
+<text x="18.700" y="22.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+int</text>
+<line x1="14.350" y1="22.630" x2="19.855" y2="22.630" stroke="#000000" stroke-width="0.050" />
+<ellipse cx="14.150" cy="23.050" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="14.350" y="23.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+job_id</text>
+<text x="18.700" y="23.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+int</text>
+<ellipse cx="14.150" cy="23.850" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="14.350" y="24.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+createDate</text>
+<text x="18.700" y="24.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+datetime</text>
+<ellipse cx="14.150" cy="24.650" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="14.350" y="24.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+createBy</text>
+<text x="18.700" y="24.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+int</text>
+<ellipse cx="14.150" cy="25.450" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="14.350" y="25.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+status</text>
+<text x="18.700" y="25.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+enum(&apos;working&apos;,&apos;finish&apos;,&apos;error&apos;)</text>
+<ellipse cx="14.150" cy="26.250" rx="0.100" ry="0.100" fill="none" stroke="#000000"  stroke-width="0.010" /><text x="14.350" y="26.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+endAt</text>
+<text x="18.700" y="26.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+datetime</text>
+<ellipse cx="14.150" cy="27.050" rx="0.100" ry="0.100" fill="none" stroke="#000000"  stroke-width="0.010" /><text x="14.350" y="27.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+endStatus</text>
+<text x="18.700" y="27.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+int</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.900,23.050 12.850,23.050 12.850,10.350 13.363,10.350 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.738,10.350 13.238,10.600 13.363,10.350 13.238,10.100 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.738,10.350 13.238,10.600 13.363,10.350 13.238,10.100 "/>
+<text x="13.700" y="22.850"  fill="#000000" text-anchor="end" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="13.650" y="10.150"  fill="#000000" text-anchor="end" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="34.015,13.550 40.683,13.550 40.683,6.900 46.863,6.900 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="47.238,6.900 46.738,7.150 46.863,6.900 46.738,6.650 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="47.238,6.900 46.738,7.150 46.863,6.900 46.738,6.650 "/>
+<text x="34.215" y="13.350"  fill="#000000" text-anchor="start" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="47.150" y="6.700"  fill="#000000" text-anchor="end" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+<rect x="40.100" y="23.250" width="17.085" height="0.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.100" y="23.250" width="17.085" height="0.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="48.643" y="23.950"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+worker</text>
+<rect x="40.100" y="24.150" width="17.085" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.100" y="24.150" width="17.085" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="40.250,24.650 40.350,24.800 40.450,24.650 40.350,24.500 "/>
+<text x="40.550" y="24.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+id</text>
+<text x="43.360" y="24.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+int</text>
+<line x1="40.550" y1="25.030" x2="44.515" y2="25.030" stroke="#000000" stroke-width="0.050" />
+<ellipse cx="40.350" cy="25.450" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="40.550" y="25.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+name</text>
+<text x="43.360" y="25.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+varchar(255)</text>
+<ellipse cx="40.350" cy="26.250" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="40.550" y="26.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+type</text>
+<text x="43.360" y="26.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+enum(&apos;dispatcher&apos;,&apos;runner&apos;,&apos;filer&apos;)</text>
+<ellipse cx="40.350" cy="27.050" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><text x="40.550" y="27.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+status</text>
+<text x="43.360" y="27.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+enum(&apos;pause&apos;,&apos;running&apos;)</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="31.370,24.650 31.370,24.650 39.613,24.650 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="39.988,24.650 39.488,24.900 39.613,24.650 39.488,24.400 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="39.988,24.650 39.488,24.900 39.613,24.650 39.488,24.400 "/>
+<text x="31.570" y="25.250"  fill="#000000" text-anchor="start" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="40.300" y="24.450"  fill="#000000" text-anchor="start" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+</svg>
